@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalPark>
+   <NationalPark Rating="4.9">
+      <Name>Grand Canyon</Name>
+      <Phone>928-638-7496</Phone>
+      <Phone>888-297-2757</Phone>
+      <Phone>866-499-2574</Phone>
+      <Address NearestAirport="FlagStaff">
+         <Number>8</Number>
+         <Street>S Entrance Road</Street>
+         <City>Grand Canyon</City>
+         <State>AZ</State>
+         <Zip>86023</Zip>
+      </Address>
+   </NationalPark>
+   <NationalPark Rating="4.8">
+      <Name>Olympic National Park</Name>
+      <Phone>360-565-3130</Phone>
+      <Phone>360-565-3131</Phone>
+      <Address NearestAirport="Seattle-Tacoma International Airport">
+         <Number>3002</Number>
+         <Street>Mount Angeles Road</Street>
+         <City>Port Angeles</City>
+         <State>WA</State>
+         <Zip>98362</Zip>
+      </Address>
+   </NationalPark>
+   <NationalPark>
+      <Name>Rocky Mountain National Park</Name>
+      <Phone>970-586-1206</Phone>
+      <Phone>970-586-1207</Phone>
+      <Address NearestAirport="Denver International Airport">
+         <Number>1000</Number>
+         <Street>US Highway 36</Street>
+         <City>Estes Park</City>
+         <State>CO</State>
+         <Zip>80517</Zip>
+      </Address>
+   </NationalPark>
+   <NationalPark Rating="4.8">
+      <Name>Big Bend National Park</Name>
+      <Phone>432-477-2251</Phone>
+      <Address NearestAirport="Midland International Air and Space Port">
+         <Number>1</Number>
+         <Street>Panther Junction</Street>
+         <City>Big Bend National Park</City>
+         <State>TX</State>
+         <Zip>79834</Zip>
+      </Address>
+   </NationalPark>
+   <NationalPark>
+      <Name>Guadalupe Mountains National Park</Name>
+      <Phone>915-828-3251</Phone>
+      <Address>
+         <Number>400</Number>
+         <Street>Pine Canyon Drive</Street>
+         <City>Salt Flat</City>
+         <State>TX</State>
+         <Zip>79847</Zip>
+      </Address>
+   </NationalPark>
+   <NationalPark Rating="4.8">
+      <Name>Zion National Park</Name>
+      <Name>Zion National Park</Name>
+      <Phone>435-772-3256</Phone>
+      <Address NearestAirport="St. George Regional Airport">
+         <Number>1</Number>
+         <Street>Zion Park Boulevard</Street>
+         <City>Springdale</City>
+         <State>UT</State>
+         <Zip>84767</Zip>
+      </Address>
+   </NationalPark>
+   <NationalPark>
+      <Name>Great Smoky Mountains National Park</Name>
+      <Address NearestAirport="McGhee Tyson Airport">
+         <Number>107</Number>
+         <Street>Park Headquarters Road</Street>
+         <City>Gatlinburg</City>
+         <State>TN</State>
+         <Zip>37738</Zip>
+      </Address>
+   </NationalPark>
+   <NationalPark Rating="4.9">
+      <Name>Mount Rainier National Park</Name>
+      <Phone>360-569-2211</Phone>
+      <Address NearestAirport="Seattle-Tacoma International Airport">
+         <Number>55210</Number>
+         <Street>238th Avenue East</Street>
+         <City>Ashford</City>
+         <State>WA</State>
+         <Zip>98304</Zip>
+      </Address>
+   </NationalPark>
+   <NationalPark>
+      <Name>North Cascades National Park</Name>
+      <Phone>360-854-7200</Phone>
+      <Phone>360-854-7201</Phone>
+      <Address NearestAirport="Bellingham International Airport">
+         <Number>810</Number>
+         <Street>State Route 20</Street>
+         <City>Sedro-Woolley</City>
+         <State>WA</State>
+         <Zip>98284</Zip>
+      </Address>
+   </NationalPark>
+   <NationalPark Rating="4.8">
+      <Name>Mesa Verde National Park</Name>
+      <Phone>970-529-4465</Phone>
+      <Address NearestAirport="Cortez Municipal Airport">
+         <Number>34840</Number>
+         <Street>Highway 160</Street>
+         <City>Mancos</City>
+         <State>CO</State>
+         <Zip>81328</Zip>
+      </Address>
+   </NationalPark>
+   <NationalPark>
+      <Name>Black Canyon of the Gunnison National Park</Name>
+      <Phone>970-641-2337</Phone>
+      <Address NearestAirport="Montrose Regional Airport">
+         <Number>9800</Number>
+         <Street>Highway 347</Street>
+         <City>Montrose</City>
+         <State>CO</State>
+         <Zip>81401</Zip>
+   </NationalPark>
+</NationalPark>

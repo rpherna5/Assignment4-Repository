@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-   elementFormDefault="qualified" attributeFormDefault="unqualified">
+            xmlns="https://rpherna5.github.io/Assignment4-Repository"
+            targetNamespace="https://rpherna5.github.io/Assignment4-Repository"
+            elementFormDefault="qualified"
+            attributeFormDefault="unqualified">
 
    <xsd:annotation>
       <xsd:documentation xml:lang="en">
